@@ -1,0 +1,57 @@
+# Business Problem Statement
+
+## Background
+
+A leading retail company seeks to gain a deeper understanding of customer shopping behavior to improve sales performance, enhance customer satisfaction, and strengthen long-term customer loyalty.
+
+The management team has observed significant variations in purchasing patterns across customer demographics, product categories, and sales channels (online and offline). To remain competitive in the market, the company aims to identify the factors that influence customer purchasing decisions and repeat purchases.
+
+These factors include:
+
+* Customer demographics
+* Product categories
+* Discounts and promotional offers
+* Customer reviews and ratings
+* Seasonal trends
+* Payment preferences
+* Subscription status
+
+---
+
+## Business Objective
+
+The primary objective of this project is to analyze consumer shopping data and derive actionable insights that can support business growth and strategic decision-making.
+
+### Key Business Question
+
+**How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
+
+---
+
+## Project Deliverables
+
+### 1. Data Preparation & Modeling (Python)
+
+* Clean and preprocess the raw dataset.
+* Handle missing values, duplicates, and inconsistencies.
+* Transform data into an analysis-ready format.
+
+### 2. Data Analysis (SQL)
+
+* Perform analytical queries to uncover customer behavior patterns.
+* Analyze customer segments, loyalty, and purchase drivers.
+* Extract meaningful business insights.
+
+### 3. Visualization & Insights (Power BI)
+
+* Develop an interactive dashboard to visualize key metrics and trends.
+* Enable stakeholders to explore insights through dynamic filters and visualizations.
+
+### 4. Report & Presentation
+
+* Summarize findings, insights, and recommendations in a comprehensive report.
+* Create a presentation to effectively communicate results to stakeholders.
+
+### 5. GitHub Repository
+
+* Maintain a well-structured repository containing all project files, including Python scripts, SQL queries, reports, and dashboard files.
